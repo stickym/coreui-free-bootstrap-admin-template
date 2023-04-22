@@ -107,7 +107,7 @@
     "foreach-cli": "^1.8.1",
     "js-beautify": "^1.13.0",
     "jsdom": "^16.4.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mkdirp": "^1.0.4",
     "node-sass": "^5.0.0",
     "nodemon": "^2.0.6",
